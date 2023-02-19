@@ -1,0 +1,8 @@
+{
+    "name": "auto-scaling-Node.js-app-AWS",
+    "version": "1.0.0",
+    "author": "@terry",
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}
